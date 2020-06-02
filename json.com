@@ -5,1183 +5,398 @@
     "submenu":"",
     "iap":false,
     "tabs":[
-    {
-        "title":"صحيفة مكة الإلكترونية",
+{
+        "title":"Culture sexuelle",
         "provider":"youtube",
         "arguments":[
-          "UCQV5jz0lnGoqnGN9dWJmTjg",
-          "channel"
+          "PLxfsTkT4TBf6Sd6tSm1Yht776z3-fUefu",
+          "playlist"
+
+        ]
+     },
+    {
+        "title":"دكتور عمرو المليجي",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkq1WpzrhsZ7rhh_7_pNgH4Q",
+          "playlist"
 
 	    ]
 		},
 {
-        "title":"قناة العربية ",
+        "title":"الصحة الجنسية عند الرجل",
         "provider":"youtube",
         "arguments":[
-          "UCahpxixMCwoANAftn6IxkTg",
-          "channel"
+          "PLj-gLu6U9hkodyY4okBTSH3grZikaZfQu",
+          "playlist"
 
 	    ]
 		},
 	  {
-        "title":"قناة العربية ",
+        "title":"للكبار فقط",
         "provider":"youtube",
         "arguments":[
-          "UCahpxixMCwoANAftn6IxkTg",
-          "channel"
+          "PL2sNc9poCYwGPoJmosb6JC8hQe7H9UXNL",
+          "playlist"
 
 	    ]
 		},
-     {
-        "title":"السعودية الإخبارية",
+{
+        "title":"عمرو الأهوانى",
         "provider":"youtube",
         "arguments":[
-          "UCV01ajGl6nt09h40iDoHDNg",
+          "UCB0kHyCHrpm-4PFa2nEhMjg",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"نصائح",
+        "provider":"youtube",
+        "arguments":[
+          "PL7MSEqQL8uFqdQIrc6QmYo6fipb9SdSJ6",
+          "playlist"
+
+        ]
+     },
+	 {
+        "title":"كل يوم فيديو",
+        "provider":"youtube",
+        "arguments":[
+          "PL7MSEqQL8uFqviK1dyQCQxz3xmTn6i1Ml",
+          "playlist"
+
+        ]
+     },
+    {
+        "title":"جسد",
+        "provider":"youtube",
+        "arguments":[
+          "PLL2vReDNHmI065pKEKUBT-k0fTcamj0G8",
+          "playlist"
+
+        ]
+     }
+	      ,
+        {
+        "title":"70 فائدة لترك الإباحية",
+        "provider":"youtube",
+        "arguments":[
+          "PLL2vReDNHmI2JkAyvZXSQcQN1HT1WDinH",
+          "playlist"
+
+        ]
+     }
+	      ,
+        {
+        "title":"النساء",
+        "provider":"youtube",
+        "arguments":[
+          "PLL2vReDNHmI2O5lnbNIAKSOjuV-3N60Dm",
+          "playlist"
+
+        ]
+     }
+	      ,
+     {
+        "title":"د. هبة قطب",
+        "provider":"youtube",
+        "arguments":[
+          "UCOfrigCXuZ0zC7fUMxGGPKQ",
           "channel"
 
         ]
      },
     {
-        "title":"France 24",
+        "title":"برنامج بوضوح",
         "provider":"youtube",
         "arguments":[
-          "UCdTyuXgmJkG_O8_75eqej-w",
-          "channel"
+          "PLv05GG5AHXijEUyhTH9PxAmJ2wDUnzCUF",
+          "playlist"
 
         ]
      },		   
-	 {
-        "title":"الحدث",
-        "provider":"youtube",
-        "arguments":[
-          "UCrj5BGAhtWxDfqbza9T9hqA",
-          "channel"
-
-        ]
-     },
      {
-        "title":"سكاي نيوز",
+        "title":"الدكتور نزار باهبري",
         "provider":"youtube",
         "arguments":[
-          "UCIJXOvggjKtCagMfxvcCzAA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"Al Jazeera",
-        "provider":"youtube",
-        "arguments":[
-          "UCfiwzLy-8yKzIbsmZTzxDgw",
-          "channel"
-
-        ]
-     },
-	 {
-        "title":"RT Arabic",
-        "provider":"youtube",
-        "arguments":[
-          "UCsP3Clx2qtH2mNZ6KolVoZQ",
-          "channel"
-
-        ]
-     },
-	 {
-        "title":"BBC News",
-        "provider":"youtube",
-        "arguments":[
-          "UCelk6aHijZq-GJBBB9YpReA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"Orient TV ",
-        "provider":"youtube",
-        "arguments":[
-          "UCZslGytOwaEEZPkiE4X47FA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"العراقية الإخبارية",
-        "provider":"youtube",
-        "arguments":[
-          "UC5h9SokuzgNiebEOzU2BHoA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"قناة افاق",
-        "provider":"youtube",
-        "arguments":[
-          "UC5-qyrvc3JSAPX-8ZWBX2DA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"قناة الحوار",
-        "provider":"youtube",
-        "arguments":[
-          "UC_fNP2ettM5ius4BZ6G7MOg",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"Fox News",
-        "provider":"youtube",
-        "arguments":[
-          "UCXIJgqnII2ZOINSWNOGFThA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"Al Jazeera English",
-        "provider":"youtube",
-        "arguments":[
-          "UCNye-wNBqNL5ZzHSJj3l8Bg",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"Bein sport",
-        "provider":"youtube",
-        "arguments":[
-          "UCJUCcJUeh0Cz2xyKwkw5Q1w",
-          "channel"
-
-        ]
-     },  
-    {
-        "title":"السنة النبوية",
-        "provider":"youtube",
-        "arguments":[
-          "UCROKYPep-UuODNwyipe6JMw",
-          "channel"
-
-        ]
-     },         
-	 {
-        "title":"السعودية",
-        "provider":"youtube",
-        "arguments":[
-          "UC2mWeEHv9IY6i74okFMkGPw",
-          "channel"
-
-        ]
-     },
-  {
-        "title":"Mbc1",
-        "provider":"youtube",
-        "arguments":[
-          "UCPvObfhnwu_QNi6mc4z5UPQ",
-          "channel"
-
-        ]
-     },
-     	   {
-        "title":"قناة9",
-        "provider":"youtube",
-        "arguments":[
-          "UCd7iPWvZCpXMIarpFhn_Bgg",
-          "channel"
-
-        ]
-     },
-	    {
-        "title":"SBC Channel",
-        "provider":"youtube",
-        "arguments":[
-          "UCfG0mfIwxrZn1MjsA994oAg",
-          "channel"
-
-        ]
-     },	  
-{
-        "title":"Nat Geo Abu Dhabi",
-        "provider":"youtube",
-        "arguments":[
-          "UCLiTe0aOHShx7hXGyqZ9UIw",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"قناة اقرأ",
-        "provider":"youtube",
-        "arguments":[
-          "UCiC_h4iC9s7Ddr3CT82_EpA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"قناة زاد العلمية",
-        "provider":"youtube",
-        "arguments":[
-          "UCOll3M-P7oKs5cSrQ9ytt6g",
-          "channel"
-
-        ]
-     },
-	 {
-        "title":"قناة الرسالة",
-        "provider":"youtube",
-        "arguments":[
-          "UCBVUg4nQTryjzB2mQRNTJIw",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"إبن عثيمين",
-        "provider":"youtube",
-        "arguments":[
-          "UCtF3YygTiodnYSw8vD3UJtQ",
-          "channel"
+          "PLE4grxNYwL7jpw8HFIwRRQeIw8v9jsTOL",
+          "playlist"
 
         ]
      }
 	    ]
 		},
-  {
-   "title":"البلاد",
+    {
+     "title":"نصائح",
     "drawable":"",
-    "submenu":"الصحف و الجرائد",
+    "submenu":"للنّساء فقط",
     "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://albiladdaily.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"الرياض",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.alriyadh.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"سبق",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://sabq.org/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"عين الوطن",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.ienalwatan.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"المدينة",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.al-madina.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"عكاظ",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.okaz.com.sa/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"اليوم",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.alyaum.com/"
-        ]
-      }
-    ]
-
-  },
-   {
-   "title":"صحيفة مكة",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://makkahnewspaper.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"الاقتصادية",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.aleqt.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"صحيفة الشرق",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://al-sharq.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"صحيفة أم القرى",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.uqn.gov.sa/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"الشرق الأوسط",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://aawsat.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"الحياة",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.alhayat-j.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"الجزيرة",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.al-jazirahonline.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"صحيفة الرياضية",
-    "drawable":"",
-    "submenu":"الصحف و الجرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://arriyadiyah.com/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"جريدة سعودي جازيت",
-    "drawable":"",
-    "submenu":"باللغة الإنجليزية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://saudigazette.com.sa/"
-        ]
-      }
-    ]
-
-  },
-  {
-   "title":"عرب نيوز",
-    "drawable":"",
-    "submenu":"باللغة الإنجليزية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.arabnews.com/"
-        ]
-      }
-    ]
-
-  },
+    "tabs":[           
 	 {
-   "title":"العربية",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
+        "title":"نصائح جنسية",
+        "provider":"youtube",
         "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
+          "PLh0nSjACpYj336pniZtsmsHb9-TD7K8wf",
+          "playlist"
+
         ]
-      }
-    ]
-
-  },	
-  {
-   "title":"Sky News",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.skynewsarabia.com/"
-        ]
-      }
-    ]
-
-  },	 
-  {
-   "title":"عكاظ",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.okaz.com.sa/"
-        ]
-      }
-    ]
-
-  },	
-  {
-   "title":"اليوم السابع",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youm7.com/"
-        ]
-      }
-    ]
-
-  },	
-  {
-   "title":"أخبار 24",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://akhbaar24.argaam.com/article/list/103/%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9%20%d9%88%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/1"
-        ]
-      }
-    ]
-
-  },	
-  {
-   "title":"KSA1 Live",
-    "drawable":"",
-    "submenu":"الرجاء تفعيل خاصية دوران الصورة في هاتفك / بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://wwitv.com/tv_channels/b3234-Saudi-1-TV-Live.htm"     ]
-      }
-    ]
-
-  },
-	
-	 {
-   "title":"الإخبارية مباشر",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.youtube.com/watch?v=X_QcF3Gloc4"     ]
-      }
-    ]
-
-  },
-  {
-   "title":"SBC Channel Live",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.shashatcom.sa/live/"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"Iqraa Tv",
-    "drawable":"",
-    "submenu":"قنوات إسلامية مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/iqra-tv-live-online.html"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"قناة الرسالة",
-    "drawable":"",
-    "submenu":"قنوات إسلامية مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://fomny.com/Video/Arabic/Al-resalah/Al-resalah.php"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"Al Sounna Nabawia",
-    "drawable":"",
-    "submenu":"قنوات إسلامية مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.1arablive.com/livetv/single-channel/90/al-sounna-nabawia"        ]
-      }
-    ]
-
-  },
-		 {
-   "title":"ZAD TV",
-    "drawable":"",
-    "submenu":"قنوات إسلامية مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.youtube.com/watch?v=IC6ZhmNY19Q&feature=emb_title"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"قناة ابن عثيمين",
-    "drawable":"",
-    "submenu":"قنوات إسلامية مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.youtube.com/watch?v=NeYVAzRiafE&feature=emb_title"        ]
-      }
-    ]
-
-  },
-  	 {
-   "title":"MBC 1",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/mbc-tv-live-online-streaming-watch-now-1.html"        ]
-      }
-    ]
-
-  },
-{
-   "title":"MBC 2",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/mbc-2-tv-live-online-streaming.html"        ]
-      }
-    ]
-
-  }	
+     }
 	    ,
 	    	 {
-   "title":"MBC 3",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/mbc-3-tv-live-online-streaming.html"        ]
-      }
-    ]
-
-  },
-      	 {
-   "title":"MBC Max",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/mbc-max-tv-live-online-streaming.html"        ]
-      }
-    ]
-
-  },
-      	 {
-   "title":"MBC Action",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/mbc-action-tv-live-online-streaming.html"        ]
-      }
-    ]
-
-  },
-   {
-   "title":"Dubai Tv",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/dubai-tv-live.html"        ]
-      }
-    ]
-
-  },
-  
-  {
-   "title":"الإقتصادية السعودية",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://fomny.com/Video/Arabic/Saudi-2-Saudi-English/Saudi-Economy.php"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"القناة 9",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://alqanat9.com/live/"        ]
-      }
-    ]
-
-  },
-      	 {
-   "title":"قناة الأقصى",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/al-aqsa-tv-live-direct-online-palestine.html"        ]
-      }
-    ]
-
-  },
-      	 {
-   "title":"قناة الشرق",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://tunisvista.com/medias/el-sharq-tv-live-online-streaming.html"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"National Geographic",
-    "drawable":"",
-    "submenu":"قنوات وثائقية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://oui9mobi.com/iphone/e/ng/"        ]
-      }
-    ]
-
-  },
-      	 {
-   "title":"Aljazerra Documentary",
-    "drawable":"",
-    "submenu":"قنوات وثائقية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.youtube.com/watch?v=xHHiCGz1vZw"        ]
-      }
-    ]
-
-  },
-	 {
-   "title":"France 24 Ar",
-    "drawable":"",
-    "submenu":"قنوات إخبارية ",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"France 24 Ar",
+        "title":"Loolia x Dr. Sandrine",
         "provider":"youtube",
         "arguments":[
-          "PLpuTkbiVtmphb3aZUCNMzthlZOP3ONKXX",
+          "PLQdr7ZNtKWsUYdbsfm9d1qGRdsWtJtf9y",
           "playlist"
 
         ]
      }
-	 ]
-
-  }
-	  ,
-	 {
-   "title":"France 24 Fr",
-    "drawable":"",
-    "submenu":"قنوات إخبارية ",
-    "iap":false,
-    "tabs":[
+	    ,
      {
-        "title":"France 24 Fr",
+        "title":"الصحة الجنسية الأنثوية",
         "provider":"youtube",
         "arguments":[
-          "PLpuTkbiVtmpgsR0u8rejodNEwpMpKWLkS",
+          "PLh0nSjACpYj1pKgby182lZoH4FSmKCgaN",
           "playlist"
 
         ]
      }
-	 ]
-
-  }
-	,
-		 {
-   "title":"الجزيرة",
-    "drawable":"",
-    "submenu":"قنوات إخبارية ",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"الجزيرة",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
 	    ,
 	 {
-   "title":"Arabia",
-    "drawable":"",
-    "submenu":"قنوات إخبارية ",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
+        "title":"Nahar TV",
+        "provider":"youtube",
         "arguments":[
-"https://www.alarabiya.net/live-stream.html"        ]
-      }
-    ]
+          "PLh0nSjACpYj2SJaxQZXuWUJ5hdGy6YSEH",
+          "playlist"
 
-  },
-		
-		 {
-   "title":"Sky News Arabia",
-    "drawable":"",
-    "submenu":"قنوات إخبارية ",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.skynewsarabia.com/livestream-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1"        ]
-      }
-    ]
-
-  },
-  
-  {
-   "title":"KSA Sports 1",
-    "drawable":"",
-    "submenu":"قنوات رياضية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=http://www.elahmad.com/tv/vlc/player_glarab.php?id=19"        ]
-      }
-    ]
-
-  },
-  
-  {
-   "title":"KSA Sports 2",
-    "drawable":"",
-    "submenu":"قنوات رياضية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=http://www.elahmad.com/tv/vlc/player_glarab.php?id=75"        ]
-      }
-    ]
-
-  },
-  
-  {
-   "title":"AD Sport 1",
-    "drawable":"",
-    "submenu":"قنوات رياضية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.html"        ]
-      }
-    ]
-
-  },
- {
-   "title":"AD Sport 2",
-    "drawable":"",
-    "submenu":"قنوات رياضية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.elahmad.com/tv/abu-dhabi-sports.php"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"AD Sport 3",
-    "drawable":"",
-    "submenu":"قنوات رياضية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.elahmad.com/tv/abu-dhabi-sports.php"        ]
-      }
-    ]
-
-  },
-  {
-   "title":"AD Sport 4",
-    "drawable":"",
-    "submenu":"قنوات رياضية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.elahmad.com/tv/abu-dhabi-sports.php"        ]
-      }
-    ]
-
-  },
+        ]
+     }
+	        ,
 	 {
-		"title": "رابط 1 مباشر",
-		"drawable": "",
-		"submenu": "مباريات كرة القدم ",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"http://kora-online.tv/"
-			]
-		}]
-	},
- {
-		"title": "رابط 2 مباشر",
-		"drawable": "",
-		"submenu": " ",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"http://www.as-koora.com/?fbclid=IwAR0QbdP3-9ygfmS9Fxmz5cbRGZ4OLSnz7BcBE7ZhmsJwtPeT2C3f9uWIihM"
-			]
-		}]
-	},
- {
-		"title": "رابط 3 مباشر",
-		"drawable": "",
-		"submenu": "جودة عالية ",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://aflam4you.tv/browse-films-videos-1-date.html/"
-			]
-		}]
-	},
- {
-		"title": "رابط 4 مباشر",
-		"drawable": "",
-		"submenu": "",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://www.kooora2day.com//"
-			]
-		}]
-	},
- {
-		"title": "رابط 5 مباشر",
-		"drawable": "",
-		"submenu": " تغطية لجلّ المباريات ",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"http://www.kora-star.tv/"
-			]
-		}]
-	},
- 
- {
-		"title": "رابط 6 مباشر",
-		"drawable": "",
-		"submenu": "",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://juventusstream.com/live/"
-			]
-		}]
-	},
-	  {
-   "title":"العربية",
+        "title":"مش عيب",
+        "provider":"youtube",
+        "arguments":[
+          "PLh0nSjACpYj3TrUR8wKhTaWSLU_77J_5u",
+          "playlist"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"Love Matters",
+        "provider":"youtube",
+        "arguments":[
+          "PLh0nSjACpYj3u7ucJ1DPBudon5Qbtqm14",
+          "playlist"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"Hakawati",
+        "provider":"youtube",
+        "arguments":[
+          "PLh0nSjACpYj3gyhStDZHW-H502hCenRGC",
+          "playlist"
+
+        ]
+     }
+	      ,
+{
+        "title":"العلاقةالجنسية",
+        "provider":"youtube",
+        "arguments":[
+          "PLYybnLiaI3Da-GQ8Pt1cqnIKn4T_L4-_V",
+          "playlist"
+
+        ]
+     },
+	 {
+        "title":"الحب ثقافة",
+        "provider":"youtube",
+        "arguments":[
+          "UCUZY64_oANDYRe6cEM4RBuA",
+          "channel"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"Lezim Taaref",
+        "provider":"youtube",
+        "arguments":[
+          "PLh0nSjACpYj1ivTpcdSikyth-xTuRqJHg",
+          "playlist"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"Altibbi",
+        "provider":"youtube",
+        "arguments":[
+          "PLh0nSjACpYj1rDuVE8y9R_iipks7oW66d",
+          "playlist"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"الصحة الجنسية عند المرأة",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkoGInge0MMl3UhxjB8-gKAA",
+          "playlist"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"العلاج الجنسي",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hko0kSkC8DXMTMonfh11i5Zy",
+          "playlist"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"سلسلة حلقات هل",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkoUts5Wd8n5XrVGtiVB4Vh-",
+          "playlist"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"نصائح للمتعة الجنسيةه",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkpQIAvDPL4Bi6y36F7MhPq7",
+          "playlist"
+
+        ]
+     }
+	    ]
+		}
+	,
+	{
+   "title":"الزواج الإسلامى السعيد",
     "drawable":"",
-    "submenu":"أخبار",
+    "submenu":"كتب عن الجنس",
     "iap":false,
     "tabs":[
       {
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
+          "https://foulabook.com/ar/book/%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%8A%D8%AF-pdf"
         ]
       }
     ]
 
-  },	
+  },
+  {
+   "title":"حيل سحرية",
+    "drawable":"",
+    "submenu":"كتب عن الجنس",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://foulabook.com/ar/book/%D8%AD%D9%8A%D9%84-%D8%B3%D8%AD%D8%B1%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%81%D8%B1%D8%A7%D8%B4-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D8%A9-pdf"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"كل شيء في الجنس",
+    "drawable":"",
+    "submenu":"كتب عن الجنس",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://ia801908.us.archive.org/25/items/secret_201612/secret.pdf"
+        ]
+      }
+    ]
+
+  },
 {
+   "title":"إلى حبيبين",
+    "drawable":"",
+    "submenu":"كتب عن الجنس",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://download-human-development-pdf-ebooks.com/32433-free-book"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"النشاط الجنسي وصراع الطبقات",
+    "drawable":"",
+    "submenu":"كتب عن الجنس",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://foulabook.com/ar/book/%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A-%D9%88%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%82%D8%A7%D8%AA-pdf"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"منتدى صوت",
+    "drawable":"",
+    "submenu":"مقالات عن الجنس",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.ultrasawt.com/%D8%A3%D8%B4%D9%87%D8%B1-6-%D9%83%D8%AA%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7-%D8%B5%D9%88%D8%AA/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AD%D9%8A%D8%A7%D8%A9/%D8%AB%D9%82%D8%A7%D9%81%D8%A9"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"البوّابة",
+    "drawable":"",
+    "submenu":"مقالات عن الجنس",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.albawaba.com/ar/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9/%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%83%D8%AA%D8%A8-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%B3-sex-1031626"
+        ]
+      }
+    ]
+
+  },
+  {
     "title":"عن التطبيق",
     "drawable":"",
     "submenu":"اخري",
@@ -1191,10 +406,11 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aramexapps.appa.saudiapresse.SettingsFragment", "fragment"
+          "com.aramexapps.appa.culturesexuelle.SettingsFragment", "fragment"
         ]
       }
     ]
   }
 ]
+
 
