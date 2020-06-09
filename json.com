@@ -6,47 +6,47 @@
     "iap":false,
     "tabs":[
 {
-        "title":"Culture sexuelle",
+        "title":"تقليد",
         "provider":"youtube",
         "arguments":[
-          "PLxfsTkT4TBf6Sd6tSm1Yht776z3-fUefu",
+          "PLxfsTkT4TBf441GdyK34s7RnQj5Kjp-dN",
           "playlist"
 
         ]
      },
     {
-        "title":"دكتور عمرو المليجي",
+        "title":"lotfi abdeli",
         "provider":"youtube",
         "arguments":[
-          "PLj-gLu6U9hkq1WpzrhsZ7rhh_7_pNgH4Q",
+          "PLxfsTkT4TBf4-zc9tFpl-OTBjDXc2AeSJ",
           "playlist"
 
 	    ]
 		},
 {
-        "title":"الصحة الجنسية عند الرجل",
+        "title":"من كان الأمسط",
         "provider":"youtube",
         "arguments":[
-          "PLj-gLu6U9hkodyY4okBTSH3grZikaZfQu",
+          "PLxfsTkT4TBf6131ZZjv2ZUAIDWYZvYLlU",
           "playlist"
 
 	    ]
 		},
 	  {
-        "title":"للكبار فقط",
+        "title":"nassreddine",
         "provider":"youtube",
         "arguments":[
-          "PL2sNc9poCYwGPoJmosb6JC8hQe7H9UXNL",
+          "PLxfsTkT4TBf7QUVBGkCd5OWyIv9dFSN4-",
           "playlist"
 
 	    ]
 		},
 {
-        "title":"عمرو الأهوانى",
+        "title":"noukat 1",
         "provider":"youtube",
         "arguments":[
-          "UCB0kHyCHrpm-4PFa2nEhMjg",
-          "channel"
+          "PLxfsTkT4TBf7SiFmzso7l3peZWqS1nUKc",
+          "playlist"
 
         ]
      },
@@ -60,10 +60,10 @@
         ]
      },
 	 {
-        "title":"كل يوم فيديو",
+        "title":"Karim El Gharbi",
         "provider":"youtube",
         "arguments":[
-          "PL7MSEqQL8uFqviK1dyQCQxz3xmTn6i1Ml",
+          "PLFApv2COP4erKDkcFt-3x3Gl9ZMoCInHr",
           "playlist"
 
         ]
