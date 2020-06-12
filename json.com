@@ -6,6 +6,15 @@
     "iap":false,
     "tabs":[
 {
+        "title":"noukat",
+        "provider":"youtube",
+        "arguments":[
+          "PLxfsTkT4TBf7SiFmzso7l3peZWqS1nUKc",
+          "playlist"
+
+        ]
+     },    
+{
         "title":"تقليد",
         "provider":"youtube",
         "arguments":[
@@ -14,6 +23,15 @@
 
         ]
      },
+ {
+        "title":"من كان الأمسط",
+        "provider":"youtube",
+        "arguments":[
+          "PLxfsTkT4TBf6131ZZjv2ZUAIDWYZvYLlU",
+          "playlist"
+
+	    ]
+		},
     {
         "title":"lotfi abdeli",
         "provider":"youtube",
@@ -24,15 +42,6 @@
 	    ]
 		},
 {
-        "title":"من كان الأمسط",
-        "provider":"youtube",
-        "arguments":[
-          "PLxfsTkT4TBf6131ZZjv2ZUAIDWYZvYLlU",
-          "playlist"
-
-	    ]
-		},
-	  {
         "title":"nassreddine",
         "provider":"youtube",
         "arguments":[
@@ -41,20 +50,20 @@
 
 	    ]
 		},
-{
-        "title":"noukat 1",
+	{
+        "title":"حمادي غوار",
         "provider":"youtube",
         "arguments":[
-          "PLxfsTkT4TBf7SiFmzso7l3peZWqS1nUKc",
+          "PLxfsTkT4TBf4BPH4czag4i2f70-lpY4cY",
           "playlist"
 
-        ]
-     },
+	    ]
+		},
 	 {
-        "title":"نصائح",
+        "title":"bassem hamraoui",
         "provider":"youtube",
         "arguments":[
-          "PL7MSEqQL8uFqdQIrc6QmYo6fipb9SdSJ6",
+          "PLxfsTkT4TBf4hAlsp4dbQTgFH5u4mHv09",
           "playlist"
 
         ]
